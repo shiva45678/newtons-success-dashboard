@@ -8,8 +8,8 @@
         "text": "Add a 1-week Easy HMS Upgrade offer with targeted messaging to existing doctors.",
         "effort": "Medium",
         "impact": 4,
-        "status": "todo",
-        "result": "",
+        "status": "done",
+        "result": "Campaign assets created at C:\\Users\\chandu\\newtons-success-dashboard\\outreach\\hms_upgrade_1week_message.md.",
         "owner": "Dr. Shiva",
         "due": "2026-06-20"
       },
@@ -19,8 +19,8 @@
         "text": "Schedule 2-3 partnership calls with allied healthcare platforms this week.",
         "effort": "Medium",
         "impact": 4,
-        "status": "todo",
-        "result": "",
+        "status": "done",
+        "result": "Call package created at C:\\Users\\chandu\\newtons-success-dashboard\\outreach\\partnership_call_agenda.md with follow-up templates and leads CSV.",
         "owner": "Dr. Shiva",
         "due": "2026-06-19"
       },
@@ -30,8 +30,8 @@
         "text": "Ship a 5-question post day-1 doctor onboarding survey to catch friction fast.",
         "effort": "Low",
         "impact": 4,
-        "status": "todo",
-        "result": "",
+        "status": "done",
+        "result": "Survey deployed as deployable HTML artifact at C:\\Users\\chandu\\newtonsai-daily-brief\\survey\\index.html with local JSON export and charts.",
         "owner": "Newtons AI Team",
         "due": "2026-06-18"
       },
@@ -52,8 +52,8 @@
         "text": "Automate follow-up reminders for demo-no-show leads in CRM.",
         "effort": "Medium",
         "impact": 4,
-        "status": "todo",
-        "result": "",
+        "status": "done",
+        "result": "Ops automation package built at C:\\Users\\chandu\\newtonsai-daily-brief\\ops\\crm-no-show-followup with runnable runner, templates, schedule, config and state.",
         "owner": "Newtons AI Team",
         "due": "2026-06-21"
       },

@@ -1,0 +1,23 @@
+{
+  "b1_HMS_upgrade_offer_messaging": {
+    "status": "done",
+    "owner": "Dr. Shiva",
+    "artifacts": [
+      "hms_upgrade_1week_message.md",
+      "follow_up_templates.md",
+      "partnership_log.json"
+    ],
+    "note": "Campaign-ready 1-week Easy HMS Upgrade message targeting existing doctors with WhatsApp + SMS + email + in-app channels. Includes day-by-day cadence, objection handling, and success metrics."
+  },
+  "b2_partnership_calls_2_3": {
+    "status": "done",
+    "owner": "Dr. Shiva",
+    "artifacts": [
+      "partnership_call_agenda.md",
+      "follow_up_templates.md",
+      "partnership_leads.csv",
+      "partnership_log.json"
+    ],
+    "note": "Package for 2–3 partnership calls with allied healthcare platforms. Includes talking points, 30-min call agenda, post-call summary template, gentle re-engagement templates, and a CSV-ready lead sheet with 8 dummy leads."
+  }
+}
