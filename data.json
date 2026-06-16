@@ -41,8 +41,8 @@
         "text": "Block 9-11 AM for deep product/builder work; move admin/calls to 2-5 PM.",
         "effort": "Low",
         "impact": 4,
-        "status": "todo",
-        "result": "",
+        "status": "executed",
+        "result": "Schedule system built at C:\\Users\\chandu\\newtons_ai_schedule with runnable daily_plan.py, calendar_view.html, and run_today.bat. User must maintain the block habits.",
         "owner": "Dr. Shiva",
         "due": "2026-06-17"
       },
@@ -53,7 +53,7 @@
         "effort": "Medium",
         "impact": 4,
         "status": "done",
-        "result": "Ops automation package built at C:\\Users\\chandu\\newtonsai-daily-brief\\ops\\crm-no-show-followup with runnable runner, templates, schedule, config and state.",
+        "result": "Ops automation package built at C:\\Users\\chandu\\newtonsai-daily-brief\\ops\\crm-no-show-followup with runnable runner, templates, schedule, and run state.",
         "owner": "Newtons AI Team",
         "due": "2026-06-21"
       },
@@ -63,8 +63,8 @@
         "text": "Enforce 11 PM bedtime with a 10-minute wind-down routine.",
         "effort": "Low",
         "impact": 5,
-        "status": "todo",
-        "result": "",
+        "status": "executed",
+        "result": "Bedtime package created at C:\\Users\\chandu\\bedtime-enforcement with ROUTINE.md, CHECKLIST.md, RULES.md, and tracker.bat. User must follow the routine; the tracker logs adherence.",
         "owner": "Dr. Shiva",
         "due": "2026-06-17"
       },
@@ -74,8 +74,8 @@
         "text": "Add two 30-minute strength sessions.",
         "effort": "Medium",
         "impact": 5,
-        "status": "todo",
-        "result": "",
+        "status": "executed",
+        "result": "Strength program created at C:\\Users\\chandu\\NewtonsAI_StrengthProgram with two 30-minute workouts, weekly schedule, tracker.py, and calendar_view.html. User must execute the sessions.",
         "owner": "Dr. Shiva",
         "due": "2026-06-19"
       }
